@@ -1,0 +1,22 @@
+.textGood {
+  font-size: 24px;
+  font-weight: 700;
+  color: green;
+}
+
+.textNeutral {
+  font-size: 24px;
+  font-weight: 700;
+  color: royalblue;
+}
+
+.textBad {
+  font-size: 24px;
+  font-weight: 700;
+  color: red;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: 700;
+}
